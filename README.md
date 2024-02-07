@@ -1,4 +1,4 @@
-# Projeto_Analise_Exploratoria_de_Dados
+# Projeto Analise Exploratoria de Dados
 
 Este Projeto faz parte do curso Profissão Analista de Dados da EBAC.
 
